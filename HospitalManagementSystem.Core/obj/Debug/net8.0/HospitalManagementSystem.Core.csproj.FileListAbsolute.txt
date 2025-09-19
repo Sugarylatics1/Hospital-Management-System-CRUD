@@ -1,0 +1,11 @@
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\bin\Debug\net8.0\HospitalManagementSystem.Core.deps.json
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\bin\Debug\net8.0\HospitalManagementSystem.Core.dll
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\bin\Debug\net8.0\HospitalManagementSystem.Core.pdb
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\obj\Debug\net8.0\HospitalManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\obj\Debug\net8.0\HospitalManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\obj\Debug\net8.0\HospitalManagementSystem.Core.AssemblyInfo.cs
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\obj\Debug\net8.0\HospitalManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\obj\Debug\net8.0\HospitalManagementSystem.Core.dll
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\obj\Debug\net8.0\refint\HospitalManagementSystem.Core.dll
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\obj\Debug\net8.0\HospitalManagementSystem.Core.pdb
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Core\obj\Debug\net8.0\ref\HospitalManagementSystem.Core.dll

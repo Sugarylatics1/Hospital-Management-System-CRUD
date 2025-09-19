@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12DF2E60-9EDE-4B20-8C09-9E1A5588ED90}|HospitalManagementSystem.Infrastructure\\HospitalManagementSystem.Infrastructure.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.infrastructure\\seeders\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DF2E60-9EDE-4B20-8C09-9E1A5588ED90}|HospitalManagementSystem.Infrastructure\\HospitalManagementSystem.Infrastructure.csproj|solutionrelative:hospitalmanagementsystem.infrastructure\\seeders\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DF2E60-9EDE-4B20-8C09-9E1A5588ED90}|HospitalManagementSystem.Infrastructure\\HospitalManagementSystem.Infrastructure.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.infrastructure\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DF2E60-9EDE-4B20-8C09-9E1A5588ED90}|HospitalManagementSystem.Infrastructure\\HospitalManagementSystem.Infrastructure.csproj|solutionrelative:hospitalmanagementsystem.infrastructure\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|solutionrelative:hospitalmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.core\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|solutionrelative:hospitalmanagementsystem.core\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DF2E60-9EDE-4B20-8C09-9E1A5588ED90}|HospitalManagementSystem.Infrastructure\\HospitalManagementSystem.Infrastructure.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DF2E60-9EDE-4B20-8C09-9E1A5588ED90}|HospitalManagementSystem.Infrastructure\\HospitalManagementSystem.Infrastructure.csproj|solutionrelative:hospitalmanagementsystem.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.core\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|solutionrelative:hospitalmanagementsystem.core\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|solutionrelative:hospitalmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|solutionrelative:hospitalmanagementsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|solutionrelative:hospitalmanagementsystem.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|solutionrelative:hospitalmanagementsystem.api\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.api\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|solutionrelative:hospitalmanagementsystem.api\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.core\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|solutionrelative:hospitalmanagementsystem.core\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.api\\controllers\\receptionistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|solutionrelative:hospitalmanagementsystem.api\\controllers\\receptionistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.api\\dtos\\vitalsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294AF4E9-5D4F-4228-86DD-DD8CCE1A30D7}|HospitalManagementSystem.API\\HospitalManagementSystem.API.csproj|solutionrelative:hospitalmanagementsystem.api\\dtos\\vitalsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|c:\\users\\argos\\onedrive\\documents\\projects\\hospitalmanagementsystem\\hospitalmanagementsystem.api\\hospitalmanagementsystem.core\\entities\\vitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008645ED-3FF8-4034-AC4C-C527E48AF07E}|HospitalManagementSystem.Core\\HospitalManagementSystem.Core.csproj|solutionrelative:hospitalmanagementsystem.core\\entities\\vitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\Program.cs",
+              "RelativeToolTip": "HospitalManagementSystem.API\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:06:16.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "HospitalManagementSystem.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:56:50.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.Core\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "HospitalManagementSystem.Core\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:56:47.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Infrastructure\\Seeders\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.Infrastructure\\Seeders\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Infrastructure\\Seeders\\DbSeeder.cs",
+              "RelativeToolTip": "HospitalManagementSystem.Infrastructure\\Seeders\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:52:47.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\appsettings.json",
+              "RelativeToolTip": "HospitalManagementSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-11T03:15:50.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\Entities\\User.cs",
+              "RelativeToolTip": "HospitalManagementSystem.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:56:45.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Infrastructure\\Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.Infrastructure\\Data\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Infrastructure\\Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "HospitalManagementSystem.Infrastructure\\Data\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T17:47:25.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.Core\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "HospitalManagementSystem.Core\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:57:05.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HospitalManagementSystem.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:42:59.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceptionistController.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\Controllers\\ReceptionistController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.API\\Controllers\\ReceptionistController.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\Controllers\\ReceptionistController.cs",
+              "RelativeToolTip": "HospitalManagementSystem.API\\Controllers\\ReceptionistController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:52:14.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VitalsDto.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\DTOs\\VitalsDto.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.API\\DTOs\\VitalsDto.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\DTOs\\VitalsDto.cs",
+              "RelativeToolTip": "HospitalManagementSystem.API\\DTOs\\VitalsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:07:44.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vitals.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\Entities\\Vitals.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.Core\\Entities\\Vitals.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\Entities\\Vitals.cs",
+              "RelativeToolTip": "HospitalManagementSystem.Core\\Entities\\Vitals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:03:50.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NurseController.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\Controllers\\NurseController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.API\\Controllers\\NurseController.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\Controllers\\NurseController.cs",
+              "RelativeToolTip": "HospitalManagementSystem.API\\Controllers\\NurseController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:50:39.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.API\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.API\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "HospitalManagementSystem.API\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:30:31.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.Core\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\argos\\OneDrive\\Documents\\Projects\\HospitalManagementSystem\\HospitalManagementSystem.API\\HospitalManagementSystem.Core\\Entities\\Patient.cs",
+              "RelativeToolTip": "HospitalManagementSystem.Core\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T18:49:17.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

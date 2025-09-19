@@ -1,0 +1,15 @@
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\bin\Debug\net8.0\HospitalManagementSystem.Infrastructure.deps.json
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\bin\Debug\net8.0\HospitalManagementSystem.Infrastructure.dll
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\bin\Debug\net8.0\HospitalManagementSystem.Infrastructure.pdb
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\bin\Debug\net8.0\HospitalManagementSystem.Core.dll
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\bin\Debug\net8.0\HospitalManagementSystem.Core.pdb
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\HospitalManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\HospitalManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\HospitalManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\HospitalManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\HospitalManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\Hospital.53A94FB9.Up2Date
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\HospitalManagementSystem.Infrastructure.dll
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\refint\HospitalManagementSystem.Infrastructure.dll
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\HospitalManagementSystem.Infrastructure.pdb
+C:\Users\argos\OneDrive\Documents\Projects\HospitalManagementSystem\HospitalManagementSystem.API\HospitalManagementSystem.Infrastructure\obj\Debug\net8.0\ref\HospitalManagementSystem.Infrastructure.dll
